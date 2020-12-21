@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PruebaOrmigga"
+    }
+  },
+  "defaultProject": "PruebaOrmigga",
+  "cli": {
+    "analytics": "871792cf-43f7-4793-84cf-30287e3bc2da"
+  }
 }
